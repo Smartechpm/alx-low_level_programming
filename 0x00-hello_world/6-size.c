@@ -1,9 +1,10 @@
 #include<stdio.h>
 /**
+ * main-entry point
  *
- *main -entry point
+ * print size of variable types
  *
- *Return: always 0
+ * Return: zero(0) always
  */
 int main(void)
 {
