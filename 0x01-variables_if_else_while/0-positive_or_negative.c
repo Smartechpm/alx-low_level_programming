@@ -9,8 +9,6 @@
  *
  * Return: always 0
  */
-
-/* main function */
 int main(void)
 {
 int n;
