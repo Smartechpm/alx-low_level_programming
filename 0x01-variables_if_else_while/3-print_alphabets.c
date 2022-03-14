@@ -5,17 +5,17 @@
  *
  * printing both lowercase and uppercase alphabets
  *
- * Return; Always 0 (Success/correct)
+ * Return: Always 0 (Success/correct)
  */
 int main(void)
 {
 int alphaBETS;
 
-for(alphaBETS = 'a'; alphaBETS <= 'z'; alphaBETS++)
+for (alphaBETS = 'a'; alphaBETS <= 'z'; alphaBETS++)
 {
 putchar(alphaBETS);
 }
-for(alphaBETS = 'A'; alphaBETS <= 'Z'; alphaBETS++)
+for (alphaBETS = 'A'; alphaBETS <= 'Z'; alphaBETS++)
 {
 putchar(alphaBETS);
 }
