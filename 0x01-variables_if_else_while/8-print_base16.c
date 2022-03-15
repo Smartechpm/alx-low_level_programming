@@ -11,7 +11,7 @@ int main(void)
 {
 int hexadecimal;
 
-for (hexadecimal = 48; hexadecimal < 57; hexadecimal++)
+for (hexadecimal = 48; hexadecimal < 58; hexadecimal++)
 {
 putchar(hexadecimal);
 }
