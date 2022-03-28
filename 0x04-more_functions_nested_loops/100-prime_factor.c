@@ -23,6 +23,7 @@ int main(void)
 			pf = i;
 			x = x / i;
 		}
+
 	}
 	if (x > 2)
 		pf = x;
