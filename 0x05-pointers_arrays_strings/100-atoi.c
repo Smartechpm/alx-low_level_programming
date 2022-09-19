@@ -5,7 +5,7 @@
  *
  * Return: integer gotten.
  */
-int -atoi(char *s)
+int _atoi(char *s)
 {
 	int index, ind2;
 	unsigned int res;
