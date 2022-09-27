@@ -1,12 +1,12 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * -strpbrk - search a string for any saet of bytes
+ * _strpbrk - search a string for any saet of bytes
  *  @s: pointer to a string
  *  @accept: pointer to a string to be matched
  *  Return: pointer to string s that matched
  */
-char *strpbrk(char *s, char *accept)
+char *_strpbrk(char *s, char *accept)
 {
 	char *p;
 	int counter, counter2;
