@@ -8,7 +8,7 @@
  */
 int helperFunction(int num, int pSqrt)
 {
-	if ((pSqrt * pSqrt) ==num)
+	if ((pSqrt * pSqrt) == num)
 	{
 		return (pSqrt);
 	}
@@ -23,9 +23,9 @@ int helperFunction(int num, int pSqrt)
 
 /**
  * _sqrt_recursion - returns the naturals square root of a number.
- * @n: number to find square root of 
+ * @n: number to find square root of
  *
- * Return; square root of n
+ * Return: square root of n
  * -1 if n doesn't have a natural sqrt
  */
 int _sqrt_recursion(int n)

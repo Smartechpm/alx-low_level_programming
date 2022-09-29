@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _strlen-recursion - returns length of a string
+ * _strlen_recursion - returns length of a string
  * @s: pointer to a string
  *
- * Return; length of string
+ * Return: length of string
  */
 int _strlen_recursion(char *s)
 {
@@ -16,7 +16,7 @@ int _strlen_recursion(char *s)
 
 /**
  * helperFunction - check if palindrome
- * @s: pointer to a string 
+ * @s: pointer to a string
  * @fi: first index.
  * @li: lastIndex.
  *
