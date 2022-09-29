@@ -1,4 +1,4 @@
-#include "maih.h"
+#include "main.h"
 /**
  * helperFunction - checksnif sqrt of number exists
  * @num: number
