@@ -1,4 +1,4 @@
-ifndef LISTS_H
+#ifndef LISTS_H
 #define LISTS_H
 
 #include <stdlib.h>
@@ -29,3 +29,4 @@ void free_list(list_t *head);
 void print(void) __attribute__((constructor));
 
 #endif /*LISTS_H*/
+
