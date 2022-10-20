@@ -1,6 +1,8 @@
 #include "main.h"
 /**
- *_strncat - fxn to concatenates two strings. It will use atmost n bytes from src. src does not need to be null terminated
+ *_strncat - fxn to concatenates two strings. 
+ *It will use atmost n bytes from src. 
+ *src does not need to be null terminated
  *@dest: pointer to destination string
  *@src: pointer to source string
  *@n: number of bytes to be concatenated

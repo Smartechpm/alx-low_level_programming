@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * reverse-array - fxn to reverse array.
+ * reverse_array - fxn to reverse array.
  * @a: pointer to array
  * @n: number of elements of an array
  *
